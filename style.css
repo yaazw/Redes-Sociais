@@ -50,6 +50,10 @@ nav a:hover {
     margin: 5rem;
 }
 
+.grafico {
+    margin-top: 3rem;
+}
+
 .graficos-container__texto {
     font-size: 1.3rem;
     text-align: center;
